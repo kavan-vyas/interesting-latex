@@ -1,6 +1,6 @@
 # Partitioning natural number sets
 ## I met a lot of people and learned a lot of things today, among which were these:
-- Never divide by 0
+- NEVER divide by 0
 - sum of sets till n
 - how to use blackboard and chalk
 - how to solve maths problems by decomposition
