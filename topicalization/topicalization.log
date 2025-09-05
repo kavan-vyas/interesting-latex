@@ -1,0 +1,279 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.9.3)  5 SEP 2025 22:20
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/kv/Documents/latex/topicalization/topicalization.tex
+(/Users/kv/Documents/latex/topicalization/topicalization.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2025/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/linguex/linguex.sty
+Package: linguex 2013/05/28 Example formatting for linguistics v. 4.3
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/gb4e/cgloss4e.sty
+\lineone=\box52
+\linetwo=\box53
+\linethree=\box54
+\wordone=\box55
+\wordtwo=\box56
+\wordthree=\box57
+\gline=\box58
+\glossglue=\skip51
+)
+\c@ExNo=\count270
+\c@SubExNo=\count271
+\c@SubSubExNo=\count272
+\c@FnExNo=\count273
+\c@ABC=\count274
+\currentlabel=\skip52
+\lessthanten=\skip53
+\lessthanhundred=\skip54
+\lessthanthousand=\skip55
+\@Exleftmargin=\skip56
+\Exlabelwidth=\skip57
+\Extopsep=\skip58
+\Exindent=\skip59
+\SubExleftmargin=\skip60
+\SubSubExleftmargin=\skip61
+\Exlabelsep=\skip62
+\alignSubExnegindent=\skip63
+\Exredux=\skip64
+\digitwidth=\skip65
+\mindigitwidth=\skip66
+\c@ExDepth=\count275
+\c@TempExDepth=\count276
+\CollectTokens=\toks19
+LaTeX Info: Redefining \b on input line 307.
+LaTeX Info: Redefining \c on input line 311.
+LaTeX Info: Redefining \d on input line 313.
+\c@tmpaEx=\count277
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/qtree/qtree.sty
+Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+(/usr/local/texlive/2025/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 112.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 114.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+\pIIe@GRAPH=\toks20
+\@arclen=\dimen142
+\@arcrad=\dimen143
+\pIIe@tempdima=\dimen144
+\pIIe@tempdimb=\dimen145
+\pIIe@tempdimc=\dimen146
+\pIIe@tempdimd=\dimen147
+\pIIe@tempdime=\dimen148
+\pIIe@tempdimf=\dimen149
+)
+\c@treecount=\count278
+\c@branchcount=\count279
+\parentbox=\box59
+\treebox=\box60
+\treeboxone=\box61
+\treeboxtwo=\box62
+\treeboxthree=\box63
+\treeboxfour=\box64
+\treeboxfive=\box65
+\treeboxsix=\box66
+\treeboxseven=\box67
+\treeboxeight=\box68
+\treeboxnine=\box69
+\treeboxten=\box70
+\treeboxeleven=\box71
+\treeboxtwelve=\box72
+\treeboxthirteen=\box73
+\treeboxfourteen=\box74
+\treeboxfifteen=\box75
+\treeboxsixteen=\box76
+\treeboxseventeen=\box77
+\treeboxeighteen=\box78
+\treeboxnineteen=\box79
+\treeboxtwenty=\box80
+\treeoffsetone=\skip67
+\treeoffsettwo=\skip68
+\treeoffsetthree=\skip69
+\treeoffsetfour=\skip70
+\treeoffsetfive=\skip71
+\treeoffsetsix=\skip72
+\treeoffsetseven=\skip73
+\treeoffseteight=\skip74
+\treeoffsetnine=\skip75
+\treeoffsetten=\skip76
+\treeoffseteleven=\skip77
+\treeoffsettwelve=\skip78
+\treeoffsetthirteen=\skip79
+\treeoffsetfourteen=\skip80
+\treeoffsetfifteen=\skip81
+\treeoffsetsixteen=\skip82
+\treeoffsetseventeen=\skip83
+\treeoffseteighteen=\skip84
+\treeoffsetnineteen=\skip85
+\treeoffsettwenty=\skip86
+\treeshiftone=\skip87
+\treeshifttwo=\skip88
+\treeshiftthree=\skip89
+\treeshiftfour=\skip90
+\treeshiftfive=\skip91
+\treeshiftsix=\skip92
+\treeshiftseven=\skip93
+\treeshifteight=\skip94
+\treeshiftnine=\skip95
+\treeshiftten=\skip96
+\treeshifteleven=\skip97
+\treeshifttwelve=\skip98
+\treeshiftthirteen=\skip99
+\treeshiftfourteen=\skip100
+\treeshiftfifteen=\skip101
+\treeshiftsixteen=\skip102
+\treeshiftseventeen=\skip103
+\treeshifteighteen=\skip104
+\treeshiftnineteen=\skip105
+\treeshifttwenty=\skip106
+\treewidthone=\skip107
+\treewidthtwo=\skip108
+\treewidththree=\skip109
+\treewidthfour=\skip110
+\treewidthfive=\skip111
+\treewidthsix=\skip112
+\treewidthseven=\skip113
+\treewidtheight=\skip114
+\treewidthnine=\skip115
+\treewidthten=\skip116
+\treewidtheleven=\skip117
+\treewidthtwelve=\skip118
+\treewidththirteen=\skip119
+\treewidthfourteen=\skip120
+\treewidthfifteen=\skip121
+\treewidthsixteen=\skip122
+\treewidthseventeen=\skip123
+\treewidtheighteen=\skip124
+\treewidthnineteen=\skip125
+\treewidthtwenty=\skip126
+\daughteroffsetone=\skip127
+\daughteroffsettwo=\skip128
+\daughteroffsetthree=\skip129
+\daughteroffsetfour=\skip130
+\branchwidthone=\skip131
+\branchwidthtwo=\skip132
+\branchwidththree=\skip133
+\branchwidthfour=\skip134
+\parentoffset=\skip135
+\treeoffset=\skip136
+\daughteroffset=\skip137
+\branchwidth=\skip138
+\parentwidth=\skip139
+\treewidth=\skip140
+\qta=\toks21
+\qtb=\toks22
+\nbranches=\count280
+\qroofx=\count281
+\qroofy=\count282
+\@qrscratchbox=\box81
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count283
+\l__pdf_internal_box=\box82
+) (./topicalization.aux)
+\openout1 = `topicalization.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+ (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen150
+\scratchbox=\box83
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen151
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks24
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+
+/Users/kv/Documents/latex/topicalization/topicalization.tex:18: Undefined control sequence.
+l.18 I'll just assume a tree structure like (\thex
+                                                  ).
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+[1
+
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./topicalization.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 1694 strings out of 473190
+ 26027 string characters out of 5715801
+ 421918 words of memory out of 5000000
+ 24975 multiletter control sequences out of 15000+600000
+ 563438 words of font info for 51 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,9n,65p,241b,378s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on topicalization.pdf (1 page, 56028 bytes).
+PDF statistics:
+ 33 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
